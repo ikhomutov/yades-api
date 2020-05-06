@@ -1,0 +1,4 @@
+aiohttp==3.6.2  # https://github.com/aio-libs/aiohttp
+motor==2.1.0  # https://github.com/mongodb/motor
+dnspython==1.16.0  # https://github.com/rthalley/dnspython
+environs==7.4.0  # https://github.com/sloria/environs
